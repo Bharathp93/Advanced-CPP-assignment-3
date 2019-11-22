@@ -1,0 +1,6 @@
+a. Assignment 3
+b. Bharath Parthasarathy (40036730)
+c. none
+d. none.
+e. prints determinant , trace and roots values with a pricision of two values after decimal.
+f. code executed and tested on Visual studio 2017
